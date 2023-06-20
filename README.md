@@ -1,3 +1,3 @@
 # Paid_service_BioData_Smart_Contract
 
-This smart contract is built for my Alnafi students the purpose is to Provide a smart contract with a service to store user public bio-data which should live forever. But before storing a user need to pay in advance some ethers.
+This smart contract is specifically designed for my Alnafi students. Its primary purpose is to provide a reliable service for storing user public bio-data, ensuring that it remains accessible indefinitely. However, before a user's bio-data can be stored, they are required to make an advance payment in ethers. By implementing this requirement, the smart contract ensures that the necessary resources are available to maintain the longevity of the stored data. Additionally, this approach helps maintain the sustainability and operational costs of the service, ensuring its continued availability for all Alnafi students.
